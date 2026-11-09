@@ -11,7 +11,7 @@ and is used here for inference only, as a reference point.
 
 ![The three best classical detectors, the two consensus variants and the U-Net on one tile](img/methods_vs_unet.png)
 
-*One tile from the dev set, scan range 5–60 px. Green = detections, red dashed = the
+*One tile from the dev set, scan range 5-60 px. Green = detections, red dashed = the
 DeepMoon catalogue. Left to right: fill depth, D8 sinks, watershed with the aspect
 filter, the two consensus variants, and the U-Net.*
 
