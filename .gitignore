@@ -1,0 +1,15 @@
+# DeepMoon HDF5 files and the tiles derived from them (~30 GB), see README
+data/
+
+# U-Net weights: 31 MB binary, published in the companion repo instead
+crater_unet_best.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Course summary document, not part of the published project
+Zusammenfassung_Methoden.docx
+
+# Word lock files
+~$*
+

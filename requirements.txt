@@ -1,0 +1,12 @@
+# Versions this project was last run with (Python 3.12).
+# topotoolbox provides fillsinks() for the hydrological method.
+numpy==2.4.6
+pandas==3.0.2
+scipy==1.17.1
+h5py==3.16.0
+tables==3.11.1
+matplotlib==3.10.8
+scikit-image==0.26.0
+scikit-learn==1.8.0
+topotoolbox==0.0.10
+torch==2.14.0
